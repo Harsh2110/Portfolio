@@ -82,9 +82,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: LBS.jpg
+        subtitle: My graduate school - London Business School.
+        title: About Me
         url: blogs/harsh
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
@@ -117,3 +117,4 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+    

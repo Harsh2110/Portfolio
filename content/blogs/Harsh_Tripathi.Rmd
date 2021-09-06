@@ -3,16 +3,14 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: About me.
 draft: false
-image: pic07.jpg
+image: Data_Idea.jpg
 keywords: ""
 slug: harsh
-title: Aliquam
+title: About me
 ---
+
 
 ```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
@@ -31,9 +29,7 @@ Hello,
 This is **Harsh Tripathi**. I will be joining the Class of 2022 of the *Masters in Analytics and Management Programme*.
 
 ### Background
-I am a resident of **India**. I belong to the city of Lucknow, which is famous for its culture and monuments. Hence, I'd like to show you one of its most famous monuments, called the *Jama Mosque* -
-![Jama Mosque](Jama.jpg)
-
+I am a resident of **India**. I belong to the city of Lucknow, which is famous for its culture and monuments. 
 
 Since the begining of my education, I was always intrigued by Math and Computers which led me to **major in Statistics** from the University of Delhi.
 
